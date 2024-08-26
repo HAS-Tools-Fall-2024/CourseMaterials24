@@ -9,7 +9,9 @@ The structure of this repository is roughly as follows:
  - `slides`: Contains slides from lectures (as appropriate) as pdf files or jupyter notebooks.
  - `starter_codes`: Code that will be used for hands-on portions of the course.
  - `data`: Sample datasets that will be used in class.
+ - `cheat_sheets`: Some cheat sheets for remembering various commands/concepts.
  - `exercises`: Copies of homework assignments - do not use these - please use the homework assignments in your individual repositories.
+
  
 ## Useful links
 Throughout the course we'll be amassing a lot of different resources that you can use. 
