@@ -7,7 +7,7 @@ The structure of this repository is roughly as follows:
 
  - `admin`: Contains details related to administration of the class including the syllabus and notes about structuring the course.
  - `slides`: Contains slides from lectures (as appropriate) as pdf files or jupyter notebooks.
- - `starter_codes`: Code that will be used for hands-on portions of the course.
+ - `coding_modules`: Code that will be used for hands-on portions of the course.
  - `data`: Sample datasets that will be used in class.
  - `cheat_sheets`: Some cheat sheets for remembering various commands/concepts.
  - `exercises`: Copies of homework assignments - do not use these - please use the homework assignments in your individual repositories.
