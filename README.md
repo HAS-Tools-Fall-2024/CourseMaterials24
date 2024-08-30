@@ -14,6 +14,8 @@ The structure of this repository is roughly as follows:
 
 ## Class recordings
 - [Weds, Aug 28 - Overview of Git and start of using VSCode codespaces](https://arizona.zoom.us/rec/play/rh7s9YwJ_nQBx9h8eeKPk8Sf5YbtD0PxZ-mdII0ViZIPH5GrSC-hLzz4KCJk0F0I_GU64UKkABV9QFAI.IK3o-fIPLu211Yat?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Farizona.zoom.us%2Frec%2Fshare%2FN3-0Xnx69QM6o7ZoXBLybzzD1CGJqLoD5MdN7ZnzdQOMmGsbWoiT9m52NBQomOEF.ijDXhP0cFcLgfWVf)
+- [Fri, Aug 30 - Review of Git and walthrough for VSCode codespaces + homework 1](https://arizona.zoom.us/rec/play/ilyDSlVHzPnUnhcs5-eX9AXUNoyt1Hi-r4Xw0AmONt_cwGUrMqRCSXzpJvek-JcBUqwZLRz7g0tSxFVW.WGd23F9GsomuaYA-?canPlayFromShare=true&from=my_recording&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Farizona.zoom.us%2Frec%2Fshare%2F_PplFSsqvwIV0LXYbHsmhGYDg-cdjZsOdlv2mdTQh4tYBULICjdyDgeKeskGB1a-.3p-IxjSMbniLRknk)
+- [Fri, Aug 30 - Supplemental walkthrough for codespaces + homework 1](https://arizona.box.com/s/5vw1zkbcevo9zbd7ixyypzpastctaqgp)
  
 ## Useful links
 Throughout the course we'll be amassing a lot of different resources that you can use. 
