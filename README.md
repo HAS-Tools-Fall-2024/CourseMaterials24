@@ -18,6 +18,7 @@ The structure of this repository is roughly as follows:
 - [Fri, Aug 30 - Supplemental walkthrough for codespaces + homework 1](https://arizona.box.com/s/5vw1zkbcevo9zbd7ixyypzpastctaqgp)
 - [Weds, Sept 4 - Starting with codespaces and python](https://arizona.zoom.us/rec/play/2Nfw-zTWgP9TUd1MJfsmDzOX7gYBYZaDBveLmAHB11yRhI8Ks_PzcgYnWix9_uXrn3it7xJIPTiJgBsi.VCFZOo7qcopL6wo8?autoplay=true&startTime=1725469514000)
 - [Fri, Sept 6 - Continuing initial python overview](https://arizona.zoom.us/rec/play/-jJK5i-cuYqMVdKXU8lHTUOlUF9LuLdU7U9xQc30q_Ay8yZY8ES7MqVzqe54-FUvad5fXK90xq1FwT-s.Je2GRfIxopzo5n03?autoplay=true&startTime=1725642162000)
+- [Mon, Sept 9 - Python functions and module imports](https://arizona.zoom.us/rec/play/dEyegWB-ICH_BjWraj0ujvM9hzqPKKr2He6lTM1a6cW6hMYcCE626WH7U2JwbZUsQ_5xi4EYMk8OeHCE.IGui6LmYX4gF7Y61?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Farizona.zoom.us%2Frec%2Fshare%2FH0wsDed7VqY935RE3YYVZ-AuEub37fU4MzbGTSY6faJecBvV1ee8sdZ-vw_nh3GQ.mZHbV-MvVq6Yiaro)
  
 ## Useful links
 Throughout the course we'll be amassing a lot of different resources that you can use. 
