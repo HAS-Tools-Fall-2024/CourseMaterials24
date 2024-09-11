@@ -29,6 +29,7 @@ Throughout the course we'll be amassing a lot of different resources that you ca
 - [Homework repository on GitHub](https://github.com/HAS-Tools-Fall2022/homework)
 
 ### Stuff for learning outside of class
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) - Great for getting started!
 - [Browser based Jupyter Lab environment](https://jupyter.org/try-jupyter/lab/)
 - [USGS National Water Information Systems Mapper](https://maps.waterdata.usgs.gov/mapper/index.html)
 - [Python data science handbook (free online textbook)](https://jakevdp.github.io/PythonDataScienceHandbook/)
