@@ -20,6 +20,7 @@ The structure of this repository is roughly as follows:
 - [Fri, Sept 6 - Continuing initial python overview](https://arizona.zoom.us/rec/play/-jJK5i-cuYqMVdKXU8lHTUOlUF9LuLdU7U9xQc30q_Ay8yZY8ES7MqVzqe54-FUvad5fXK90xq1FwT-s.Je2GRfIxopzo5n03?autoplay=true&startTime=1725642162000)
 - [Mon, Sept 9 - Python functions and module imports](https://arizona.zoom.us/rec/play/dEyegWB-ICH_BjWraj0ujvM9hzqPKKr2He6lTM1a6cW6hMYcCE626WH7U2JwbZUsQ_5xi4EYMk8OeHCE.IGui6LmYX4gF7Y61?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Farizona.zoom.us%2Frec%2Fshare%2FH0wsDed7VqY935RE3YYVZ-AuEub37fU4MzbGTSY6faJecBvV1ee8sdZ-vw_nh3GQ.mZHbV-MvVq6Yiaro)
 - [Weds, Sept 11 - Intro to numpy](https://arizona.zoom.us/rec/share/SSjxhOaw72J48Qzw51yEci1kg9xlapUoz_KReFOFeKxMfoaYarJWtubaHeFwc8VX.tWi04Bl1JDTqwuUX?startTime=1726074191000)
+- [Supplemental - Submitting HW2 changes to github](https://arizona.zoom.us/rec/share/ZgYi2_5p3toS5hHESsRfkOOvooZGsYIpX9Y2_Q7ukEdTTgF2yUok3nTqR_B8rMNx.pSUkBGsDKP_0keCo?startTime=1726083144000)
  
 ## Useful links
 Throughout the course we'll be amassing a lot of different resources that you can use. 
