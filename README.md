@@ -23,6 +23,8 @@ The structure of this repository is roughly as follows:
 - [Supplemental - Submitting HW2 changes to github](https://arizona.zoom.us/rec/share/ZgYi2_5p3toS5hHESsRfkOOvooZGsYIpX9Y2_Q7ukEdTTgF2yUok3nTqR_B8rMNx.pSUkBGsDKP_0keCo?startTime=1726083144000)
 - [Fri, Sept 13 - Prerecorded intro to matplotlib](https://arizona.zoom.us/rec/share/AT87Wfw933PTLt1dk2CBVOrNG65r2a3UYIYojZgFHupgK7InR4p1uNC0ju9PbZ9o.GAxBFetFdsSwIg2m?startTime=1726242791000)
 - [Fri, Sept 13 - Short in class session](https://arizona.zoom.us/rec/share/7QSVVzjvJbE4D8bopU4PTGz467zMlRi9ieweGLLPls4UPQHhN14XTgPEfOygkfLa.yChWnCM0lsG3u8Fu?startTime=1726246908000)
+- [Mon, Sept 16 - Some details about matplotlib plots](https://arizona.zoom.us/rec/share/lGssTL5KPGVKUn1Z-ua2_lA2b8TTa63V7yG9phulsRjxnsOJWrMibgcwGKVKGbzj.aVYcG6gBqKFvvavZ)
+- [Supplemental - Fixing merge conflicts](https://arizona.zoom.us/rec/share/kJDrcx9Hseb4slGSxIXGR6FMJLvAeOi2iCr_dZFGjqoV9I4ZUWbfp1sWKGZZiAFA.HqBFZenhuIfWwCsw)
  
 ## Useful links
 Throughout the course we'll be amassing a lot of different resources that you can use. 
