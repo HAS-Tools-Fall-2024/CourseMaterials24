@@ -25,6 +25,7 @@ The structure of this repository is roughly as follows:
 - [Fri, Sept 13 - Short in class session](https://arizona.zoom.us/rec/share/7QSVVzjvJbE4D8bopU4PTGz467zMlRi9ieweGLLPls4UPQHhN14XTgPEfOygkfLa.yChWnCM0lsG3u8Fu?startTime=1726246908000)
 - [Mon, Sept 16 - Some details about matplotlib plots](https://arizona.zoom.us/rec/share/lGssTL5KPGVKUn1Z-ua2_lA2b8TTa63V7yG9phulsRjxnsOJWrMibgcwGKVKGbzj.aVYcG6gBqKFvvavZ)
 - [Supplemental - Fixing merge conflicts](https://arizona.zoom.us/rec/share/kJDrcx9Hseb4slGSxIXGR6FMJLvAeOi2iCr_dZFGjqoV9I4ZUWbfp1sWKGZZiAFA.HqBFZenhuIfWwCsw)
+- [Weds, Sept 18 - hw2 walkthrough, merge conflicts](https://arizona.zoom.us/rec/share/v_C8aNSNx6_kjz20BSlcJ7A_Wz086rlhvAi1VWmaCICjfEhBOstoMW9tGTiyJT8g.7YrwEqDIDfIThxaG)
  
 ## Useful links
 Throughout the course we'll be amassing a lot of different resources that you can use. 
