@@ -26,6 +26,8 @@ The structure of this repository is roughly as follows:
 - [Mon, Sept 16 - Some details about matplotlib plots](https://arizona.zoom.us/rec/share/lGssTL5KPGVKUn1Z-ua2_lA2b8TTa63V7yG9phulsRjxnsOJWrMibgcwGKVKGbzj.aVYcG6gBqKFvvavZ)
 - [Supplemental - Fixing merge conflicts](https://arizona.zoom.us/rec/share/kJDrcx9Hseb4slGSxIXGR6FMJLvAeOi2iCr_dZFGjqoV9I4ZUWbfp1sWKGZZiAFA.HqBFZenhuIfWwCsw)
 - [Weds, Sept 18 - hw2 walkthrough, merge conflicts](https://arizona.zoom.us/rec/share/v_C8aNSNx6_kjz20BSlcJ7A_Wz086rlhvAi1VWmaCICjfEhBOstoMW9tGTiyJT8g.7YrwEqDIDfIThxaG)
+- [Mon, Sept 23 - pandas stuff](https://arizona.zoom.us/rec/share/cJUCct1aiIgaW9p48S0Bg_p9C4rtmfYbdVrS8I0VBSZDVmsqX37XGwdpeNo_1w4Y.QSLm_kuxfsBQrlw1)
+- [Weds, Sept 25 - Data access via apis](https://arizona.zoom.us/rec/play/n30nZZt1KWKUOgDLj1SECGQ7iNz6ijryY0HAFbrrPIV-2Lw0vAvPRtdR1Gx1qLpxt7xVL90YaA_Lggar.T8dtrI-TL442augP?autoplay=true&startTime=1727284290000)
  
 ## Useful links
 Throughout the course we'll be amassing a lot of different resources that you can use. 
