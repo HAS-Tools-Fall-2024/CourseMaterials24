@@ -30,7 +30,7 @@ The structure of this repository is roughly as follows:
 - [Weds, Sept 25 - Data access via apis](https://arizona.zoom.us/rec/play/n30nZZt1KWKUOgDLj1SECGQ7iNz6ijryY0HAFbrrPIV-2Lw0vAvPRtdR1Gx1qLpxt7xVL90YaA_Lggar.T8dtrI-TL442augP?autoplay=true&startTime=1727284290000)
 - [Fri, Sept 27 - Timeseries analysis](https://arizona.zoom.us/rec/share/qIi9p37NM1WXrOI6njr5JaSsQchPcKZwldoHqN2HwJwuYbRmRhF1FpvtAreb0Ln4.oXKt9xeZxqcYdbKS)
 - [Supplemental Example - Project Euler](https://arizona.zoom.us/rec/share/qIi9p37NM1WXrOI6njr5JaSsQchPcKZwldoHqN2HwJwuYbRmRhF1FpvtAreb0Ln4.oXKt9xeZxqcYdbKS)
-- [Supplemental Example - Calculating Pi via Monte Carlo methods](
+- [Supplemental Example - Calculating Pi via Monte Carlo methods](https://arizona.box.com/s/73k40gl6pwz6vim887slrm5nmke2vlvh)
  
 ## Useful links
 Throughout the course we'll be amassing a lot of different resources that you can use. 
