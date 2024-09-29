@@ -29,7 +29,7 @@ The structure of this repository is roughly as follows:
 - [Mon, Sept 23 - pandas stuff](https://arizona.zoom.us/rec/share/cJUCct1aiIgaW9p48S0Bg_p9C4rtmfYbdVrS8I0VBSZDVmsqX37XGwdpeNo_1w4Y.QSLm_kuxfsBQrlw1)
 - [Weds, Sept 25 - Data access via apis](https://arizona.zoom.us/rec/play/n30nZZt1KWKUOgDLj1SECGQ7iNz6ijryY0HAFbrrPIV-2Lw0vAvPRtdR1Gx1qLpxt7xVL90YaA_Lggar.T8dtrI-TL442augP?autoplay=true&startTime=1727284290000)
 - [Fri, Sept 27 - Timeseries analysis](https://arizona.zoom.us/rec/share/qIi9p37NM1WXrOI6njr5JaSsQchPcKZwldoHqN2HwJwuYbRmRhF1FpvtAreb0Ln4.oXKt9xeZxqcYdbKS)
-- [Supplemental Example - Project Euler]([https://arizona.zoom.us/rec/share/qIi9p37NM1WXrOI6njr5JaSsQchPcKZwldoHqN2HwJwuYbRmRhF1FpvtAreb0Ln4.oXKt9xeZxqcYdbKS](https://arizona.zoom.us/rec/share/BYxOFAke6qfjlOi3o0vv8A4kdXKIgod82-7b3tMroDZKxHBzPzEQDBA81W2uKswb.x1YBmf73ArS2lrKI))
+- [Supplemental Example - Project Euler]([https://arizona.zoom.us/rec/share/qIi9p37NM1WXrOI6njr5JaSsQchPcKZwldoHqN2HwJwuYbRmRhF1FpvtAreb0Ln4.oXKt9xeZxqcYdbKS](https://arizona.zoom.us/rec/share/BYxOFAke6qfjlOi3o0vv8A4kdXKIgod82-7b3tMroDZKxHBzPzEQDBA81W2uKswb.x1YBmf73ArS2lrKI)
 - [Supplemental Example - Calculating Pi via Monte Carlo methods](https://arizona.box.com/s/73k40gl6pwz6vim887slrm5nmke2vlvh)
  
 ## Useful links
