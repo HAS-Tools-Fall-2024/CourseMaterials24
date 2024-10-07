@@ -31,6 +31,7 @@ The structure of this repository is roughly as follows:
 - [Fri, Sept 27 - Timeseries analysis](https://arizona.zoom.us/rec/share/qIi9p37NM1WXrOI6njr5JaSsQchPcKZwldoHqN2HwJwuYbRmRhF1FpvtAreb0Ln4.oXKt9xeZxqcYdbKS)
 - [Supplemental Example - Project Euler](https://arizona.zoom.us/rec/play/-FTqRTk1GMPLAID17cVD4R9eV6JJlLurVpYuJ5hgAP7NJ2A7so43nLMeo8bYa3w3P6y2xRtIshMsQm2z.rU3c_sfuUdD5Cxv7?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Farizona.zoom.us%2Frec%2Fshare%2FBYxOFAke6qfjlOi3o0vv8A4kdXKIgod82-7b3tMroDZKxHBzPzEQDBA81W2uKswb.x1YBmf73ArS2lrKI)
 - [Supplemental Example - Calculating Pi via Monte Carlo methods](https://arizona.box.com/s/73k40gl6pwz6vim887slrm5nmke2vlvh)
+- [Mon, Oct 7 - Geospatial data representations: vector data](https://arizona.zoom.us/rec/share/fzN7cHiQU7FkGBcbiAkXw0BXuioYGxmCh0-HPluATO7nbm1uytkV4bxdFsnbJmGe.El8jbclQpOU8tdgp)
  
 ## Useful links
 Throughout the course we'll be amassing a lot of different resources that you can use. 
