@@ -32,6 +32,7 @@ The structure of this repository is roughly as follows:
 - [Supplemental Example - Project Euler](https://arizona.zoom.us/rec/play/-FTqRTk1GMPLAID17cVD4R9eV6JJlLurVpYuJ5hgAP7NJ2A7so43nLMeo8bYa3w3P6y2xRtIshMsQm2z.rU3c_sfuUdD5Cxv7?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Farizona.zoom.us%2Frec%2Fshare%2FBYxOFAke6qfjlOi3o0vv8A4kdXKIgod82-7b3tMroDZKxHBzPzEQDBA81W2uKswb.x1YBmf73ArS2lrKI)
 - [Supplemental Example - Calculating Pi via Monte Carlo methods](https://arizona.box.com/s/73k40gl6pwz6vim887slrm5nmke2vlvh)
 - [Mon, Oct 7 - Geospatial data representations: vector data](https://arizona.zoom.us/rec/share/fzN7cHiQU7FkGBcbiAkXw0BXuioYGxmCh0-HPluATO7nbm1uytkV4bxdFsnbJmGe.El8jbclQpOU8tdgp)
+- [Mon, Oct 14 - Raster data & labeled arrays](https://arizona.zoom.us/rec/play/MdvXy5vaQ-4MPuAn8VNRwDzIwzXrLZsx62kp1kGBkzKxiG8GI2SJhPAyy3wpomrvS6pPogJbTOCzZy1n.4iTfdosXKJk8Xq2Y?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Farizona.zoom.us%2Frec%2Fshare%2FfIEkIp79rYD5ic03Xr5ssmhBFIZefeAwOGmo1dHAUpczOlHDkceVrilQEF9TDKPF.IG_MEfjdVmAaI27E)
  
 ## Useful links
 Throughout the course we'll be amassing a lot of different resources that you can use. 
