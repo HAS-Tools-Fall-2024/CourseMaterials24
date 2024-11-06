@@ -36,6 +36,7 @@ The structure of this repository is roughly as follows:
 - [Fri, Oct 18 - Groupby, resample, and rolling](https://arizona.zoom.us/rec/play/jTdRvW0MMNSOSNh1BSMGilSQP0d5jAoCJXTZmvoRAvcICpX9AeKSDsUYFoBiSyOkNM2xeC1rKZhOiBs0.qRAtiSxDVcmx5heo?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Farizona.zoom.us%2Frec%2Fshare%2FS392SqlRkbp7EGyVf3aGqsF30TQHXwYtzUNY8ncr__E8W77OSWog78MydLn_zVF_.eYDAuAECHrlvcDQ_)
 - [Mon, Oct 28 - Python scripts & modules](https://arizona.zoom.us/rec/play/X0PbzeO7YWSzoWbg4_jyCq8eEC6m89VR5l1h-Af-wsDjpqPfaqKi3STRIuQHEEI8hxQFZSm_rXh6NAB5.CXW_7csSnfDgjaVD?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Farizona.zoom.us%2Frec%2Fshare%2FbisuhyPFhY9YjIUMwjs6qpe1wheUJdhzPnrmXmvxqXUQnLYewLJzZUSy7KV5aNJ3.YrNf2msW_OFA1X2N)
 - [Weds, Oct 30 - The command line](https://arizona.zoom.us/rec/play/X0PbzeO7YWSzoWbg4_jyCq8eEC6m89VR5l1h-Af-wsDjpqPfaqKi3STRIuQHEEI8hxQFZSm_rXh6NAB5.CXW_7csSnfDgjaVD?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Farizona.zoom.us%2Frec%2Fshare%2FbisuhyPFhY9YjIUMwjs6qpe1wheUJdhzPnrmXmvxqXUQnLYewLJzZUSy7KV5aNJ3.YrNf2msW_OFA1X2N)
+- [Fri, Nov 1 - Building command line interfaces](https://arizona.zoom.us/rec/share/078xV3rnc8KOdF91LxHc39YlzGSy3ufAYtl1FGpXG7FlD2t-99rESi22TYTDEvqQ.14jN_rIHBTXL5TE-)
  
 ## Useful links
 Throughout the course we'll be amassing a lot of different resources that you can use. 
