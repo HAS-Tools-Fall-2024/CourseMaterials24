@@ -39,6 +39,7 @@ The structure of this repository is roughly as follows:
 - [Fri, Nov 1 - Building command line interfaces](https://arizona.zoom.us/rec/share/078xV3rnc8KOdF91LxHc39YlzGSy3ufAYtl1FGpXG7FlD2t-99rESi22TYTDEvqQ.14jN_rIHBTXL5TE-)
 - [Mon, Nov 3 - Managing python environments with conda](https://arizona.zoom.us/rec/share/YiYUO4WbW1sO81G1uIi1wNgHRMnBvQTI68M7RtNBCICrF1ZQ1KOoZYxm6N8sYd6Q.dBlqeHqswxTUUWbP)
 - [Weds, Nov 5 - Writing clean code](https://arizona.zoom.us/rec/share/PX4QVSDymWRVpGHn3tQHu_Sdwb9pBSEJTfJQMg4xsVA_7rQE6LsVO5_NJX69DGKE.M6mcebzRsXiRNRHo)
+- [Weds, Nov 13 - Forecast 2 overview](https://arizona.zoom.us/rec/share/160pSARWFRZwpzClfAytTw5H9z8JQmilt8aqyB3PfHui2irLoVxYbU0DgeKEbOW1.PmriWxP1U1YomoBJ)
  
 ## Useful links
 Throughout the course we'll be amassing a lot of different resources that you can use. 
