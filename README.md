@@ -40,6 +40,7 @@ The structure of this repository is roughly as follows:
 - [Mon, Nov 3 - Managing python environments with conda](https://arizona.zoom.us/rec/share/YiYUO4WbW1sO81G1uIi1wNgHRMnBvQTI68M7RtNBCICrF1ZQ1KOoZYxm6N8sYd6Q.dBlqeHqswxTUUWbP)
 - [Weds, Nov 5 - Writing clean code](https://arizona.zoom.us/rec/share/PX4QVSDymWRVpGHn3tQHu_Sdwb9pBSEJTfJQMg4xsVA_7rQE6LsVO5_NJX69DGKE.M6mcebzRsXiRNRHo)
 - [Weds, Nov 13 - Forecast 2 overview](https://arizona.zoom.us/rec/share/160pSARWFRZwpzClfAytTw5H9z8JQmilt8aqyB3PfHui2irLoVxYbU0DgeKEbOW1.PmriWxP1U1YomoBJ)
+- [Mon, Nov 15 - Overview of Earth data repositories](https://arizona.zoom.us/rec/share/uvn8ERJuIiKC3ccdrYwzHiDxe5OdI3v8FJR46Nx8BQCkhDKbI0h2ZhR-1249cwus.AyaliJEa0EhYgHYj)
  
 ## Useful links
 Throughout the course we'll be amassing a lot of different resources that you can use. 
@@ -58,6 +59,7 @@ Throughout the course we'll be amassing a lot of different resources that you ca
 - [xarray tutorial](https://mybinder.org/v2/gh/xarray-contrib/xarray-tutorial/HEAD?labpath=workshops/scipy2022/index.ipynb)
 - [Data Analysis in the Water Science (course materials)](https://mountain-hydrology-research-group.github.io/data-analysis/intro.html)
 - [Spatiotemporal Data Analysis (course materials)](https://github.com/kanchukaitis/spatiotemporal_data_analysis)
+- [UA DataLab](https://datascience.arizona.edu/education/uarizona-data-lab)
 
 ## More to come
 
