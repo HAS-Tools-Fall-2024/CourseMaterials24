@@ -60,6 +60,7 @@ Throughout the course we'll be amassing a lot of different resources that you ca
 - [Data Analysis in the Water Science (course materials)](https://mountain-hydrology-research-group.github.io/data-analysis/intro.html)
 - [Spatiotemporal Data Analysis (course materials)](https://github.com/kanchukaitis/spatiotemporal_data_analysis)
 - [UA DataLab](https://datascience.arizona.edu/education/uarizona-data-lab)
+- [Geocomputation with Python](https://py.geocompx.org/)
 
 ## More to come
 
