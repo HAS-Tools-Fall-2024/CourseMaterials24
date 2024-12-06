@@ -41,6 +41,8 @@ The structure of this repository is roughly as follows:
 - [Weds, Nov 5 - Writing clean code](https://arizona.zoom.us/rec/share/PX4QVSDymWRVpGHn3tQHu_Sdwb9pBSEJTfJQMg4xsVA_7rQE6LsVO5_NJX69DGKE.M6mcebzRsXiRNRHo)
 - [Weds, Nov 13 - Forecast 2 overview](https://arizona.zoom.us/rec/share/160pSARWFRZwpzClfAytTw5H9z8JQmilt8aqyB3PfHui2irLoVxYbU0DgeKEbOW1.PmriWxP1U1YomoBJ)
 - [Mon, Nov 15 - Overview of Earth data repositories](https://arizona.zoom.us/rec/share/uvn8ERJuIiKC3ccdrYwzHiDxe5OdI3v8FJR46Nx8BQCkhDKbI0h2ZhR-1249cwus.AyaliJEa0EhYgHYj)
+- [Mon, Dec 2 - Working with ERA5 & Downscaled CMIP6 Data](https://arizona.zoom.us/rec/play/oa5Yl2SHeY7-gbPW3LXQDCYcs7DwnaXsQ68VdlGcRQ3dN8swU3i2m4Cql5NYAZhrLMKOuZAJiEmcSdOL.RIzGsWOvDqPrdBeD?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Farizona.zoom.us%2Frec%2Fshare%2F4aB2NA2wlNBWr3Z_b_WoRl-G5IttE15C-aKVq9yID1TxF95iXKo759TiLVAQg60z.ju48C9px5Lj2kIG3)
+- [Weds, Dec 4 - Generative AI](https://arizona.zoom.us/rec/play/ow1F7gh6Zv-TmeGt_t9InJ0Lfca7M3bElLoMuP4hSOP25ynn9KVEcC-8IXGEYmYnkHyYV9fDB2dINOqb.Y33PfQnaBXSaA7cN?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Farizona.zoom.us%2Frec%2Fshare%2FmDU47OkhJiltNTAPx2iI513FrYrbvYzip39qlMv3vRlDeN_9gSFEn7EzMDtchIvf.eLWqEFvtvbHd8wHo)
  
 ## Useful links
 Throughout the course we'll be amassing a lot of different resources that you can use. 
